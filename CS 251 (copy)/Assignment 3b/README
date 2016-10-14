@@ -1,0 +1,8 @@
+/***************************************
+Class: CS251
+Name: Paul McNeil
+Assignment Number: 3b
+Honor Pledge: I pledge that I have not recieved nor given help on this assignment.
+***************************************/
+
+To run this program, simply go into the appropriate directory and use the make command: make LQueue-test. This will produce an exectuable file that will only run the LQueue portion of the Makefile instructions. Finally, execute the executable file.

@@ -1,0 +1,8 @@
+/***************************************
+Class: CS251
+Name: Paul McNeil
+Assignment Number: 4d
+Honor Pledge: I pledge that I have not recieved nor given help on this assignment.
+***************************************/
+
+To run this program, simply go into the appropriate directory and use the make command: make. This will produce an exectuable file that will also take command line instructions regarding the type of Queue to be implemented. Finally, execute the executable file.
